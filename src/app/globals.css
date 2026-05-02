@@ -1,0 +1,13 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+@layer base {
+  body {
+    font-family: 'Inter', system_ui, sans-serif;
+  }
+}
+
+
+.gradient-hero {
+  background: linear-gradient(135deg, #6366f1 0%, #4f46e5 100%);
+}
