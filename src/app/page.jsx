@@ -189,7 +189,6 @@
 
 
 'use client';
-import Navbar from '@/components/Navbar';
 import Link from 'next/link';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { Navigation, Pagination, Autoplay, EffectFade } from 'swiper/modules';
