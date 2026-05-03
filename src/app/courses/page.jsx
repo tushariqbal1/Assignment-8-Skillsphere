@@ -204,7 +204,7 @@ export default function Courses() {
       </div>
 
       <div className="max-w-6xl mx-auto px-6 py-10">
-        {/* Filters */}
+       
         <div className="flex flex-col md:flex-row gap-4 mb-10">
           <div className="relative flex-1">
             <Search className="absolute left-4 top-3.5 text-gray-400" />
@@ -230,7 +230,7 @@ export default function Courses() {
           </div>
         </div>
 
-        {/* Courses Grid */}
+       
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
           {filteredCourses.map(course => (
             <div key={course.id} className="card bg-base-100 shadow-xl hover:shadow-2xl transition-all group">
