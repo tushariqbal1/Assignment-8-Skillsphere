@@ -12,7 +12,7 @@ export default function NotFound() {
           <div className="relative">
             <div className="text-[180px] font-bold text-base-300 select-none">404</div>
             <div className="absolute inset-0 flex items-center justify-center">
-              <div className="w-32 h-32 bg-gradient-to-br from-indigo-500 to-purple-600 rounded-full flex items-center justify-center">
+              <div className="w-32 h-32 bg-linear-to-br from-indigo-500 to-purple-600 rounded-full flex items-center justify-center">
                 <span className="text-white text-6xl"><FaBookReader /></span>
               </div>
             </div>
