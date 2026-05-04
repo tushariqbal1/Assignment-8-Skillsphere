@@ -5,7 +5,7 @@
 A modern, beautiful, and fully responsive online learning platform where users can explore courses, watch lessons, and enroll in skill-based programs.
 
 ## 🚀 Live Demo
-**Live URL:** `https://your-live-url.vercel.app` *(Update after deployment)*
+**Live URL:** `assignment-8-skillsphere-seven.vercel.app` *(Update after deployment)*
 
 ## ✨ Features
 
