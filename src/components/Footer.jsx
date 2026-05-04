@@ -81,10 +81,6 @@ export default function Footer() {
               <FaGithub />
             </a>
           </div>
-
-          <div className="text-sm text-green-500 text-base-content/60">
-            <h2 className='font-bold '>Iqbal Hossain</h2>
-          </div>
         </div>
       </div>
     </footer>
